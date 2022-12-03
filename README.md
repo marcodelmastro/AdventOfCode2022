@@ -4,4 +4,4 @@
 
 * [Day 2](Day02.ipynb). Dictionaries for a Rock-Paper-Scissor game.
 
-* [Day 3](Day03.ipynb). String manipulation and search. Initially using =Counter= and =&= of dictionaries for efficient search of common items, then moved to =set= since it's the most natural tool for intersection search.
+* [Day 3](Day03.ipynb). String manipulation and search. Initially using `Counter` and `&` of dictionaries for efficient search of common items, then moved to `set`'s since they are the most natural tool for intersection search.
