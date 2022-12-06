@@ -9,3 +9,5 @@
 * [Day 4](Day04.ipynb). Interval overlaps. Quick solution checking extremes.
 
 * [Day 5](Day05.ipynb). The hardest part was parsing the input (done in a very not elegant way :-) I could do much better if I only knew how to really use `regex`). Solutions were variations of list chopping and reassembling.
+
+* [Day 6](Day06.ipynb). String chopping and sets.
