@@ -11,3 +11,5 @@
 * [Day 5](Day05.ipynb). The hardest part was parsing the input (done in a very not elegant way :-) I could do much better if I only knew how to really use `regex`). Solutions were variations of list chopping and reassembling.
 
 * [Day 6](Day06.ipynb). String chopping and sets.
+
+* [Day 7](Day07.ipynb). First day presenting some challenge. Parsing the commands to browse the filesystem was not too complicated, structure saved in dictionary of dictionaries (for directories) and integers (for file sizes). Part 1 solved with recursion, Part 2 was quite easy since I was already saving the sizes of all directories.
