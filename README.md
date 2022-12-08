@@ -15,3 +15,4 @@
 * [Day 7](Day07.ipynb). First day presenting some challenge. Parsing the commands to browse the filesystem was not too complicated, structure saved in dictionary of dictionaries (for directories) and integers (for file sizes). Part 1 solved with recursion, Part 2 was quite easy since I was already saving the sizes of all directories.
 
 * [Day 8](Day08.ipynb). `numpy` array slicing and manipulation.
+
