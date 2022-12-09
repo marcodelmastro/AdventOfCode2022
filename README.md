@@ -16,3 +16,5 @@
 
 * [Day 8](Day08.ipynb). `numpy` array slicing and manipulation.
 
+* [Day 9](Day09.ipynb). Coordinate tracking and relative movement. Part 1 was fast, Part 2 more complicated by the fact that my initial implementation of a the head-tail relative movement was not accounting for all possibilities that can show up in a longer rope.
+
