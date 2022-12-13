@@ -24,4 +24,4 @@
 
 * [Day 12](Day12.ipynb). Path finding on a oriented graph. Caching of already-explored paths needed to speed-up second part
 
-* [Day 13](Day13.ipynb). Recursion for Part 1 to implement `compare` function. `functools.cmp_to_key` to use Part 1 `compare` function in standard sorting algorithm for Part 2.
+* [Day 13](Day13.ipynb). Recursion for Part 1 to implement `compare` function. `functools.cmp_to_key` to use Part 1 `compare` function in standard sorting algorithm for Part 2. After initial solution, also added simple bubble sort implementation.
