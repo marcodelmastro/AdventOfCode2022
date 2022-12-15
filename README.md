@@ -27,3 +27,5 @@
 * [Day 13](Day13.ipynb). Recursion for Part 1 to implement `compare` function. `functools.cmp_to_key` to use Part 1 `compare` function in standard sorting algorithm for Part 2. After initial solution, also added simple bubble sort implementation.
 
 * [Day 14](Day14.ipynb). Sand dropping in a cave until if flows forever or it fills the hole! Representing cave walls and sand in dictionary avoids having to use large arrays of potentially unknown size (especially for Part 2)
+
+* [Day 15](Day15.ipynb). 2D areas with Manhattan distance, with overlap and intercepts to be calculated. Using `set` works fast enouhg for Part 1, bus as expected this does not scael for Part 2, where handling overlpas in term of ranges is needed.
