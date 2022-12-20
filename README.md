@@ -35,3 +35,7 @@
 * Day 17: **TODO** (did not find the time yet)
 
 * [Day 18](Day18.ipynb). Part 1 was quick and easy using geometry considerations. Part 2 solved by searching for non-isolated pockets to remove them from internal surface calculation.
+
+* Day 19: **TODO** (did not find the time yet)
+
+* [Day 20](Day20.ipynb). Linked list with the usual menace of huge numbers for part 2/
