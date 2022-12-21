@@ -39,3 +39,5 @@
 * Day 19: **TODO** (did not find the time yet)
 
 * [Day 20](Day20.ipynb). Linked list with the usual menace of huge numbers for part 2/
+
+* [Day 21](Day21.ipynb). Simple recursive solution for Part 1, dicotomic search + brute force around minumum for Part 2.
