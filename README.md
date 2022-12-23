@@ -41,3 +41,8 @@
 * [Day 20](Day20.ipynb). Linked list with the usual menace of huge numbers for part 2/
 
 * [Day 21](Day21.ipynb). Simple recursive solution for Part 1, dicotomic search + brute force around minumum for Part 2. Added semi-analytical solution using `sympy` to simplify the mathematical expression after the initial solution.
+
+* Day 22: **TODO** (did not find the time yet)
+
+* [Day 23](Day23.ipynb). A puzzle similar to Conway’s game of Life with some peculiar rules. I overcomplicated the parsing function to “ease” the visualization, only to include a off-by-one error (the first line of the input was not read!) that was thankfully quickly found on Reddit. Once fixed all the rest worked out of the box for both Part 1 and Part 2.
+ 
