@@ -32,7 +32,7 @@
 
 * [Day 16](Day16.ipynb). Solving Part 1 with a mixture of cached BFS results and graph traversing following the rules. Extending the solution to Part 2 took me some thinking (see notebook for details)
 
-* Day 17: **TODO** (did not find the time yet)
+* [Day 17](Day17.ipynb). Tetris simulation. Part 1 done quickly on New Year's Day morning before the family wakes up, I'll tackle Part 2 later...  (this was one of the 3 days I left behind during the Advent period for lack of time).
 
 * [Day 18](Day18.ipynb). Part 1 was quick and easy using geometry considerations. Part 2 solved by searching for non-isolated pockets to remove them from internal surface calculation.
 
@@ -46,7 +46,7 @@
 
 * [Day 23](Day23.ipynb). A puzzle similar to Conway’s game of Life with some peculiar rules. I overcomplicated the parsing function to “ease” the visualization, only to include a off-by-one error (the first line of the input was not read!) that was thankfully quickly found on Reddit. Once fixed all the rest worked out of the box for both Part 1 and Part 2.
 
-* [Day 24](Day24.ipynb). Path finding on an evolving map, with the possibility not to move. Since the map configurations are repeating, I pre-computed and cache them. Solution is a simple BFS; Part 2 basically runs part 1 solution 3 times with different starting configurations and goals.
+* [Day 24](Day24.ipynb). Path finding on an evolving map, with the possibility not to move. Since the map configurations are repeating, I pre-computed and cache them. Solution is a simple BFS; Part 2 basically runs part 1 solution 3 times with different starting configurations and goals. Done on New Year's Eve morning (this was one of the 3 days I left behind during the Advent period for lack of time).
 
 * [Day 25](Day25.ipynb). Convert values to a different base with a spin.
 
