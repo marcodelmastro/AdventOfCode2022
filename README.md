@@ -32,7 +32,7 @@
 
 * [Day 16](Day16.ipynb). Solving Part 1 with a mixture of cached BFS results and graph traversing following the rules. Extending the solution to Part 2 took me some thinking (see notebook for details)
 
-* [Day 17](Day17.ipynb). Tetris simulation. Part 1 done quickly on New Year's Day morning before the family wakes up. Part 2 can be solved by looking for repetion and exploting them to compute the tower height without haing to drop the huge number of rocks: I solved this on January 2nd 2023 after some struggle: I got the right idea quickly, but failed to realise that a single repetion does not make a cycle, and only multiple occurrence at regular interval guarantee that I found the right period. Once realised, fixing the code was quick.
+* [Day 17](Day17.ipynb). Tetris simulation. Part 1 done quickly on New Year's Day morning before the family wakes up. Part 2 can be solved by looking for repetion and exploting them to compute the tower height without haing to drop the huge number of rocks: I solved this on January 2nd 2023 after some struggle: I got the right idea quickly, but failed to realise that a single repetition does not make a cycle, and only multiple occurrences at regular intervals guarantee that I found the right period. Once realised, fixing the code was quick.
 
 * [Day 18](Day18.ipynb). Part 1 was quick and easy using geometry considerations. Part 2 solved by searching for non-isolated pockets to remove them from internal surface calculation.
 
