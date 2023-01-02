@@ -32,7 +32,7 @@
 
 * [Day 16](Day16.ipynb). Solving Part 1 with a mixture of cached BFS results and graph traversing following the rules. Extending the solution to Part 2 took me some thinking (see notebook for details)
 
-* [Day 17](Day17.ipynb). Tetris simulation. Part 1 done quickly on New Year's Day morning before the family wakes up, I'll tackle Part 2 later...  (this was one of the 3 days I left behind during the Advent period for lack of time).
+* [Day 17](Day17.ipynb). Tetris simulation. Part 1 done quickly on New Year's Day morning before the family wakes up. Part 2 can be solved by looking for repetion and exploting them to compute the tower height without haing to drop the huge number of rocks: I solved this on January 2nd 2023 after some struggle: I got the right idea quickly, but failed to realise that a single repetion does not make a cycle, and only multiple occurrence at regular interval guarantee that I found the right period. Once realised, fixing the code was quick.
 
 * [Day 18](Day18.ipynb). Part 1 was quick and easy using geometry considerations. Part 2 solved by searching for non-isolated pockets to remove them from internal surface calculation.
 
@@ -42,7 +42,7 @@
 
 * [Day 21](Day21.ipynb). Simple recursive solution for Part 1, dicotomic search + brute force around minumum for Part 2. Added semi-analytical solution using `sympy` to simplify the mathematical expression after the initial solution.
 
-* [Day 22](Day22.ipynb). 2D grid navigation: Part 1 needs wrapping across empty space; Part 2 treats map as cube surface (**still TODO**).
+* [Day 22](Day22.ipynb). 2D grid navigation: Part 1 needs wrapping across empty space; Part 2 treats map as cube surface.
 
 * [Day 23](Day23.ipynb). A puzzle similar to Conway’s game of Life with some peculiar rules. I overcomplicated the parsing function to “ease” the visualization, only to include a off-by-one error (the first line of the input was not read!) that was thankfully quickly found on Reddit. Once fixed all the rest worked out of the box for both Part 1 and Part 2.
 
