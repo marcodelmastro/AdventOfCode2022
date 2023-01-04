@@ -50,4 +50,6 @@
 
 * [Day 25](Day25.ipynb). Convert values to a different base with a spin.
 
- 
+![50 stars](./AOC2022_50stars.PNG "50 stars")
+
+![Over the jungle](./AOC2022_OverTheJungle.PNG "Under the sea")
