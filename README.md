@@ -36,7 +36,7 @@
 
 * [Day 18](Day18.ipynb). Part 1 was quick and easy using geometry considerations. Part 2 solved by searching for non-isolated pockets to remove them from internal surface calculation.
 
-* Day 19: **TODO** (did not find the time yet)
+* [Day 19](Day19.ipynb). A well-disguised graph traversing problem: implementation was quite tricky (using a BFS-like search to produce all states), but even trickier was finding the optimisation to prune the useless states not to explose the search space.
 
 * [Day 20](Day20.ipynb). Linked list with the usual menace of huge numbers for part 2/
 
